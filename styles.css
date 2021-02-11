@@ -1,0 +1,18 @@
+body{
+  background-color: #a4ebf3;
+}
+
+h1
+{
+  color: red;
+}
+
+h2
+{
+  color: blue;
+}
+
+.photo
+{
+  border-radius: 80%;
+}
